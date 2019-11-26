@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Any Decider</string>
+    <string name="decideBtnTxt">Decide!</string>
+    <string name="new_optionTextHint">New option...</string>
+    <string name="addButtonText">Add</string>
+    <string name="chosenOptionDefaultText">Add your options!</string>
+</resources>
